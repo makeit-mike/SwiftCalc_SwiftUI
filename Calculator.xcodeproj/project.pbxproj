@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F7962C6424D5D3A7005BEC86 /* CalculatorFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7962C6324D5D3A7005BEC86 /* CalculatorFormatting.swift */; };
 		F7D96A3524318EDF005189E5 /* Math Parser in Resources */ = {isa = PBXBuildFile; fileRef = F7D96A3424318EDF005189E5 /* Math Parser */; };
 		F7FC0E0F242815DA001BDCF7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FC0E0E242815DA001BDCF7 /* AppDelegate.swift */; };
 		F7FC0E11242815DA001BDCF7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FC0E10242815DA001BDCF7 /* SceneDelegate.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F7962C6324D5D3A7005BEC86 /* CalculatorFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorFormatting.swift; sourceTree = "<group>"; };
 		F7D96A3424318EDF005189E5 /* Math Parser */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Math Parser"; sourceTree = "<group>"; };
 		F7FC0E0B242815DA001BDCF7 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7FC0E0E242815DA001BDCF7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				F7FC0E0E242815DA001BDCF7 /* AppDelegate.swift */,
 				F7FC0E10242815DA001BDCF7 /* SceneDelegate.swift */,
 				F7FC0E12242815DA001BDCF7 /* ContentView.swift */,
+				F7962C6324D5D3A7005BEC86 /* CalculatorFormatting.swift */,
 				F7FC0E14242815DB001BDCF7 /* Assets.xcassets */,
 				F7FC0E19242815DB001BDCF7 /* LaunchScreen.storyboard */,
 				F7FC0E1C242815DB001BDCF7 /* Info.plist */,
@@ -275,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7FC0E0F242815DA001BDCF7 /* AppDelegate.swift in Sources */,
+				F7962C6424D5D3A7005BEC86 /* CalculatorFormatting.swift in Sources */,
 				F7FC0E11242815DA001BDCF7 /* SceneDelegate.swift in Sources */,
 				F7FC0E13242815DA001BDCF7 /* ContentView.swift in Sources */,
 				F7FC0E3F242851D6001BDCF7 /* Expression.swift in Sources */,
